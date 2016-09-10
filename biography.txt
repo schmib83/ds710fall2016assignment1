@@ -1,8 +1,8 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
-1. What is your name?
-2. Why are you interested in Data Science?
-3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
-4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
-5.  Do you have other experience with R or Python?
-6.  What do you hope to learn in this class?
-7.  Is there anything else you would like to share with us?
+1. My Name is Ben Schmirler.
+2. I am interested in data science because I have always had a curiosity for exploring data.  I am fascinated by the amount of value corporations and academia can get out of data.  I am especially interested in learning prescriptive analytics and their algorithms.
+3. I graduated at UW Oshkosh with a bachelor’s in computer science.  I have taken java, C++, C#, assembly and machine learning, python, perl, the web stack, and database languages.  I also use programming on the job as a database analyst.  I use TSQL often and write reports using SSRS and integration packages using SSIS.
+4.  I have taken AP statistics, a calculus based statistics in college, and DS 705. I do not use statistics on the job very often.
+5.  I used python in a computer networking course in my undergraduate studies.  I used R in DS700 and DS705 as well as using R as an undergraduate research assistant in the biology department.  
+6.  I hope to learn how to integrate R and python in order to solve interesting problems within the theatre of data science.
+7.  In my spare time, I like to work out, run, go wine tasting, and hang out with friends.
